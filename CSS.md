@@ -3,7 +3,26 @@ Der große Sinn von CSS Files besteht in der Trennung von Inhalt und Design
   -> ohne CSS wären wir "Verloren im Quelltext"
   
 # Praktische Umsetzung
-- Hintergrundfarbe festlegen  ```css
+- Hintergrundfarbe:
+```css
+body {  
+  background-colour: blue;  
+}
+```
+- Schriftart:
+```css
+body {  
+  background-colour: blue;  
+}
+```
+- Textausrichtung:
+```css
+body {  
+  background-colour: blue;  
+}
+```
+- Textfarbe:
+```css
 body {  
   background-colour: blue;  
 }
