@@ -12,14 +12,15 @@ body {
 - Schriftart:
 ```css
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
+
 body {  
   font-family: 'Open Sans', sans-serif; 
 }
 ```
 - Textausrichtung:
 ```css
-body {  
-  background-colour: blue;  
+body {
+  text-align:center;
 }
 ```
 - Textfarbe:
