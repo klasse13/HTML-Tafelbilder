@@ -20,12 +20,12 @@ body {
 - Textausrichtung:
 ```css
 body {
-  text-align:center;
+  text-align: center;
 }
 ```
 - Textfarbe:
 ```css
-body {  
-  background-colour: blue;  
+body {
+color: yellow;
 }
 ```
