@@ -6,13 +6,14 @@ Der große Sinn von CSS Files besteht in der Trennung von Inhalt und Design
 - Hintergrundfarbe:
 ```css
 body {  
-  background-colour: <Farbe>;  
+  background-colour: blue;  
 }
 ```
 - Schriftart:
 ```css
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 body {  
-  background-colour: blue;  
+  font-family: 'Open Sans', sans-serif; 
 }
 ```
 - Textausrichtung:
