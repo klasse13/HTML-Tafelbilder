@@ -26,6 +26,6 @@ body {
 - Textfarbe:
 ```css
 body {
-color: yellow;
+  color: yellow;
 }
 ```
