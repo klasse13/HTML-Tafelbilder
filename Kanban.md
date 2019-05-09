@@ -9,9 +9,9 @@ Die Mitglieder eines Kanban-Prozesses messen typische Größen wie Längen von W
 Mache die Regeln für den Prozess explizit
 Um sicherzustellen, dass alle Beteiligten des Prozesses wissen, unter welchen Annahmen und Gesetzmäßigkeiten man arbeitet, werden möglichst alle Regeln, die es gibt, explizit gemacht. Dazu gehören z. B.
 
-eine Definition des Begriffes „fertig“, ähnlich der Definition of Done in Scrum,
-Bedeutung der einzelnen Spalten,
-Antworten auf die Fragen: wer zieht, wann zieht man, wie wählt man das nächste zu ziehende Ticket aus der Menge der vorhandenen Tickets aus usw.
++ eine Definition des Begriffes „fertig“, ähnlich der Definition of Done in Scrum,
+  Bedeutung der einzelnen Spalten,
++ Antworten auf die Fragen: wer zieht, wann zieht man, wie wählt man das nächste zu ziehende Ticket aus der Menge der vorhandenen         Tickets aus usw.
 
 ### Fördere Leadership auf allen Ebenen in der Organisation
 Verbesserung kann nur funktionieren, wenn sich alle Ebenen in der Organisation daran beteiligen. Besonders wichtig ist es, dass Mitarbeiter, die direkt die Arbeit verrichten, "Acts of Leadership" zeigen und konkrete Verbesserungsvorschläge einbringen.
