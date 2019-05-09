@@ -1,4 +1,4 @@
-##Visualisiere den Fluss der Arbeit
+## Visualisiere den Fluss der Arbeit
 Die Wertschöpfungskette mit ihren verschiedenen Prozessschritten (zum Beispiel Anforderungsdefinition, Programmierung, Dokumentation, Test, Inbetriebnahme) wird gut sichtbar für alle Beteiligten visualisiert. Dafür wird ein Kanban-Board (in der Regel ein großes Whiteboard) verwendet, auf dem die unterschiedlichen Stationen als Spalten dargestellt werden. Die einzelnen Anforderungen (es können Tasks, Features, User Stories, Minimal Marketable Features (MMF) usw. sein) werden auf Karteikarten oder Haftnotizen festgehalten und durchwandern mit der Zeit als so genannte Tickets das Kanban-Board von links nach rechts.
 
 ##Begrenze die Menge angefangener Arbeit
